@@ -69,9 +69,13 @@ $display_rule_link = add_query_arg( array( 'post_type' => POPUPAOC_POST_TYPE, 'p
 	</div> -->
 
 
-	<div class="paoc-pro-notice">
+	<!-- <div class="paoc-pro-notice">
 		<i class="dashicons dashicons-money-alt"></i>
-		<?php echo sprintf( __( 'Try All These <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>
+		<?php// echo sprintf( __( 'Try All These <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>
+	</div> -->
+
+	<div class="poac-black-friday-banner-wrp" style="margin:20px 10px;">
+		<a href="<?php echo esc_url( POPUPAOC_PLUGIN_LINK_UNLOCK ); ?>" target="_blank"><img style="width:100%" src="<?php echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-small.png" alt="black-friday-banner" /></a>
 	</div>
 
 	<?php } ?>

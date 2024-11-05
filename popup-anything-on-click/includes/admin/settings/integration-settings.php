@@ -27,7 +27,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 	<div class="paoc-pro-notice">
 		<i class="dashicons dashicons-money-alt"></i>
-		<?php echo sprintf( __( 'Try All These <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>		
+			<?php echo sprintf( __( 'Try All These PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>
 	</div>
 
 	<div class="inside">

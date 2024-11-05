@@ -66,7 +66,9 @@ $show_credit		= ! empty( $advance['show_credit'] )	? 1	: 0;
 								<th colspan="3">
 									<!-- <div class="paoc-sub-sett-title"><i class="dashicons dashicons-admin-generic"></i> <?php //esc_html_e('Additional Features', 'popup-anything-on-click'); ?> <span class="paoc-pro-tag"><?php //esc_html_e('PRO', 'popup-anything-on-click');?></span><em> <?php //esc_html_e('Utilize these Premium Features with Risk-Free 30 days money back guarantee.', 'popup-anything-on-click'); ?></em></div> -->
 								
-									<div class="paoc-sub-sett-title"><i class="dashicons dashicons-admin-generic"></i> <?php esc_html_e('Additional Features', 'popup-anything-on-click'); ?> <span class="paoc-pro-tag"><?php esc_html_e('PRO', 'popup-anything-on-click');?></span><em> <?php esc_html_e('Try This features in Essential Bundle Free For 5 Days.', 'popup-anything-on-click'); ?></em></div>
+									<!-- <div class="paoc-sub-sett-title"><i class="dashicons dashicons-admin-generic"></i> <?php //esc_html_e('Additional Features', 'popup-anything-on-click'); ?> <span class="paoc-pro-tag"><?php //esc_html_e('PRO', 'popup-anything-on-click');?></span><em> <?php //esc_html_e('Try This features in Essential Bundle Free For 5 Days.', 'popup-anything-on-click'); ?></em></div> -->
+
+									<div class="paoc-sub-sett-title"><i class="dashicons dashicons-admin-generic"></i> <?php esc_html_e('Additional Features', 'popup-anything-on-click'); ?> <span class="paoc-pro-tag"><?php esc_html_e('PRO', 'popup-anything-on-click');?></span><em> <?php esc_html_e('Early Back Friday Deals on lifetime plan FLAT $100 USD OFF.', 'popup-anything-on-click'); ?></em></div>
 
 								</th>
 							</tr>
@@ -129,7 +131,7 @@ $show_credit		= ! empty( $advance['show_credit'] )	? 1	: 0;
 								<th colspan="3">
 									<!-- <div class="paoc-sub-sett-title"><i class="dashicons dashicons-admin-generic"></i> <?php //esc_html_e('Popup Schedule Settings', 'popup-anything-on-click'); ?> <span class="paoc-pro-tag"><?php //esc_html_e('PRO','popup-anything-on-click');?></span><em><?php //esc_html_e(' Utilize these Premium Features with Risk-Free 30 days money back guarantee.', 'popup-anything-on-click'); ?></em></div> -->
 
-									<div class="paoc-sub-sett-title"><i class="dashicons dashicons-admin-generic"></i> <?php esc_html_e('Popup Schedule Settings', 'popup-anything-on-click'); ?> <span class="paoc-pro-tag"><?php esc_html_e('PRO','popup-anything-on-click');?></span><em> <?php esc_html_e('Try This features in Essential Bundle Free For 5 Days.', 'popup-anything-on-click'); ?></em></div>
+									<div class="paoc-sub-sett-title"><i class="dashicons dashicons-admin-generic"></i> <?php esc_html_e('Popup Schedule Settings', 'popup-anything-on-click'); ?> <span class="paoc-pro-tag"><?php esc_html_e('PRO','popup-anything-on-click');?></span><em> <?php esc_html_e('Early Back Friday Deals on lifetime plan FLAT $100 USD OFF.', 'popup-anything-on-click'); ?></em></div>
 								</th>
 							</tr>
 

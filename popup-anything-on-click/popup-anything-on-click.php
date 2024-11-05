@@ -5,7 +5,7 @@
  * Text Domain: popup-anything-on-click
  * Description: Display a modal popup on a page load or by clicking link, image or button. Also work with Gutenberg shortcode block.
  * Domain Path: /languages/
- * Version: 2.8.2
+ * Version: 2.8.3
  * Author: WP OnlineSupport, Essential Plugin
  * Author URI: https://www.essentialplugin.com/wordpress-plugin/popup-anything-click/
  * 
@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'POPUPAOC_VERSION' ) ) {
-	define( 'POPUPAOC_VERSION', '2.8.2' ); // Version of plugin
+	define( 'POPUPAOC_VERSION', '2.8.3' ); // Version of plugin
 }
 
 if( ! defined( 'POPUPAOC_DIR' ) ) {
@@ -61,11 +61,11 @@ if( ! defined( 'POPUPAOC_PREVIEW_LINK' ) ) {
 }
 
 if( ! defined( 'POPUPAOC_PLUGIN_BUNDLE_LINK' ) ) {
-	define('POPUPAOC_PLUGIN_BUNDLE_LINK', 'https://www.wponlinesupport.com/checkout/?edd_action=add_to_cart&download_id=14791&edd_options[price_id]=7&wpos_cart_flush=1&utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Welcome-Screen'); // Plugin link
+	define('POPUPAOC_PLUGIN_BUNDLE_LINK', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Welcome-Screen'); // Plugin link
 }
 
 if( ! defined( 'POPUPAOC_PLUGIN_LINK_UNLOCK' ) ) {
-	define('POPUPAOC_PLUGIN_LINK_UNLOCK', 'https://www.wponlinesupport.com/checkout/?edd_action=add_to_cart&download_id=14791&edd_options[price_id]=7&wpos_cart_flush=1&utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Features-PRO'); // Plugin link
+	define('POPUPAOC_PLUGIN_LINK_UNLOCK', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Features-PRO'); // Plugin link
 }
 
 /**

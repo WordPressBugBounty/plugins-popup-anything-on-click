@@ -14,6 +14,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <div id="paoc_themes_tabs" class="paoc-vtab-cnt paoc_themes_tabs paoc-clearfix">
 	
+
+	<div class="poac-black-friday-banner-wrp">
+		<a href="<?php echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img src="<?php echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
+	</div>
+
 	<div class="popupaoc-features-section">
 	<div class="popupaoc-center">
 		<h1 class="popupaoc-heading">Powerful Pro Features, Simplified</h1>
@@ -101,16 +106,19 @@ if ( ! defined( 'ABSPATH' ) ) {
 		</div>
 	</div> -->
 
-	<div class="poac-deal-offer-wrap">
+	<!-- <div class="poac-deal-offer-wrap">
 		<div class="poac-deal-offer"> 
 			<div class="poac-inn-deal-offer">
 				<h3 class="poac-inn-deal-hedding"><span>Try Popup Anything Pro</span> in Essential Bundle Free For 5 Days.</h3>
 			</div>
 			<div class="poac-deal-free-offer">
-				<a href="<?php echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank" class="poac-sf-free-btn"><span class="dashicons dashicons-cart"></span> Try Pro For 5 Days Free</a>
+				<a href="<?php //echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank" class="poac-sf-free-btn"><span class="dashicons dashicons-cart"></span> Try Pro For 5 Days Free</a>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
+	<div class="poac-black-friday-banner-wrp">
+		<a href="<?php echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img src="<?php echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
+	</div>
 
 </div>

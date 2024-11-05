@@ -101,12 +101,11 @@ if( ! $enable ) { ?>
 			</a> -->
 
 
-			<a href="<?php echo esc_url( POPUPAOC_PLUGIN_LINK_UNLOCK ); ?>" target="_blank" class="paoc-pro-upgrade-link"><i class="dashicons dashicons dashicons-money-alt"></i> Try Pro For 5 Days Free</a>
-			
+			<a href="<?php echo esc_url( POPUPAOC_PLUGIN_LINK_UNLOCK ); ?>" target="_blank" class="paoc-pro-upgrade-link"><i class="dashicons dashicons dashicons-money-alt"></i> Try Upgrade To PRO</a>
 
 		</li>
 		<li class="paoc-pro-tab-wrap">
-			<em><b>Try All These</b><br/><span> PRO Features in Essential Bundle Free For 5 Days.</span></em>
+			<em><b>Try All These</b><br/><span> PRO Features with Early <u>Back Friday Deals</u> on lifetime plan. FLAT $100 USD OFF.</span></em>
 		</li>
 	</ul>
 

@@ -19,6 +19,10 @@ $tab = isset( $_GET['tab'] ) ? '#'.$_GET['tab'] : '#paoc_welcome_tabs';
 <div id="wrap" class="wpos-solutions-features-page">
 	<h2  class="wpos-main-heading-tittle">Welcome to <span class="popupaoc-blue">Popup Anything - A Marketing Popup</span></h2>
 	<style>
+		/******backfriday deal*****/
+		.poac-black-friday-banner-wrp img{width: 100%;}
+		.wpos-plugin-pricing-table{margin-bottom: 20px;}
+
 		/**** Solution Page ****/
 		.wpos-solutions-features-page{width: 90%; margin: 0 auto; }
 		.wpos-main-heading-tittle{font-size:24px; text-align: center;}
