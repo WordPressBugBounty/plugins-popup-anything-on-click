@@ -19,12 +19,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 		</h3>
 	</div>
 
-	<!-- Pro Notice -->
-	<!-- <div class="paoc-pro-notice">
-		<i class="dashicons dashicons-money-alt"></i>
-		<?php //echo sprintf( __( 'Utilize these <a href="%s" target="_blank">Premium Features with Risk-Free 30 days money back guarantee</a> to get best of this plugin with Annual or Lifetime bundle deal.', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>
-	</div> -->
-
 	<div class="paoc-pro-notice">
 		<i class="dashicons dashicons-money-alt"></i>
 			<?php echo sprintf( __( 'Try All These PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>

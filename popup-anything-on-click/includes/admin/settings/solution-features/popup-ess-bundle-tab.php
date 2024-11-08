@@ -90,32 +90,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 		</thead>
 	</table>
 
-	
-	<!-- <div class="poac-deal-offer-wrap">
-		<div class="poac-deal-offer"> 
-			<div class="poac-inn-deal-offer">
-				<h3 class="poac-inn-deal-hedding"><span>Buy PopupAnything Pro</span> today and unlock all the powerful features.</h3>
-				<h4 class="poac-inn-deal-sub-hedding"><span style="color:red;">Extra Bonus: </span>You will get <span>extra best discount</span> on the regular price using this coupon code.</h4>
-			</div>
-			<div class="poac-inn-deal-offer-btn">
-				<div class="poac-inn-deal-code"><span>EPSEXTRA</span></div>
-				<a href="<?php //echo esc_url(POPUPAOC_PLUGIN_BUNDLE_LINK); ?>"  target="_blank" class="popupaoc-sf-btn popupaoc-sf-btn-orange"><span class="dashicons dashicons-cart"></span> Get Essential Bundle Now</a>
-				<em class="risk-free-guarantee"><span class="heading">Risk-Free Guarantee </span> - We offer a <span>30-day money back guarantee on all purchases</span>. If you are not happy with your purchases, we will refund your purchase. No questions asked!</em>
-			
-			</div>
-		</div>
-	</div> -->
-
-
-	<!-- <div class="poac-deal-offer-wrap">
-		<div class="poac-deal-offer"> 
-			<div class="poac-inn-deal-offer">
-				<h3 class="poac-inn-deal-hedding"><span>Try Popup Anything Pro</span> in Essential Bundle Free For 5 Days.</h3>
-			</div>
-			<div class="poac-deal-free-offer">
-				<a href="<?php //echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank" class="poac-sf-free-btn"><span class="dashicons dashicons-cart"></span> Try Pro For 5 Days Free</a>
-			</div>
-		</div>
-	</div> -->
-
 </div>

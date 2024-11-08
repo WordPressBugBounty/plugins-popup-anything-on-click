@@ -62,17 +62,6 @@ $display_rule_link = add_query_arg( array( 'post_type' => POPUPAOC_POST_TYPE, 'p
 		<span class="description"><?php esc_html_e('Note : Flush Stats button will only flush the `Impressions` and `Clicks` for this post. The popup report will not be affected by this.', 'popup-anything-on-click'); ?></span>
 	</div>
 	<br/>
-	<!-- Pro Notice -->
-	<!-- <div class="paoc-pro-notice">
-		<i class="dashicons dashicons-money-alt"></i>
-		<?php //	 echo sprintf( __( 'Utilize these <a href="%s" target="_blank">Premium Features with Risk-Free 30 days money back guarantee</a> to get best of this plugin with Annual or Lifetime bundle deal.', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>
-	</div> -->
-
-
-	<!-- <div class="paoc-pro-notice">
-		<i class="dashicons dashicons-money-alt"></i>
-		<?php// echo sprintf( __( 'Try All These <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>
-	</div> -->
 
 	<div class="poac-black-friday-banner-wrp" style="margin:20px 10px;">
 		<a href="<?php echo esc_url( POPUPAOC_PLUGIN_LINK_UNLOCK ); ?>" target="_blank"><img style="width:100%" src="<?php echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-small.png" alt="black-friday-banner" /></a>

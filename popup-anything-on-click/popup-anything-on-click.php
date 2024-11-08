@@ -5,7 +5,7 @@
  * Text Domain: popup-anything-on-click
  * Description: Display a modal popup on a page load or by clicking link, image or button. Also work with Gutenberg shortcode block.
  * Domain Path: /languages/
- * Version: 2.8.3
+ * Version: 2.8.4
  * Author: WP OnlineSupport, Essential Plugin
  * Author URI: https://www.essentialplugin.com/wordpress-plugin/popup-anything-click/
  * 
@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'POPUPAOC_VERSION' ) ) {
-	define( 'POPUPAOC_VERSION', '2.8.3' ); // Version of plugin
+	define( 'POPUPAOC_VERSION', '2.8.4' ); // Version of plugin
 }
 
 if( ! defined( 'POPUPAOC_DIR' ) ) {
@@ -39,14 +39,6 @@ if( ! defined( 'POPUPAOC_POST_TYPE' ) ) {
 if( ! defined( 'POPUPAOC_META_PREFIX' ) ) {
 	define('POPUPAOC_META_PREFIX','_aoc_'); // Plugin metabox prefix
 }
-
-// if( ! defined( 'POPUPAOC_PLUGIN_BUNDLE_LINK' ) ) {
-// 	define('POPUPAOC_PLUGIN_BUNDLE_LINK','https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Welcome-Screen'); // Plugin link
-// }
-
-// if( ! defined( 'POPUPAOC_PLUGIN_LINK_UNLOCK' ) ) {
-// 	define('POPUPAOC_PLUGIN_LINK_UNLOCK','https://www.essentialplugin.com/essential-plugin-bundle-pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Features-PRO'); // Plugin link
-// }
 
 if( ! defined( 'POPUPAOC_PLUGIN_LINK_UPGRADE' ) ) {
 	define('POPUPAOC_PLUGIN_LINK_UPGRADE','https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Upgrade-PRO'); // Plugin Check link

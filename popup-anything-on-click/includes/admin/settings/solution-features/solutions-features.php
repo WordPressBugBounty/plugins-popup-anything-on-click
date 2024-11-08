@@ -100,12 +100,6 @@ $tab = isset( $_GET['tab'] ) ? '#'.$_GET['tab'] : '#paoc_welcome_tabs';
 
 		.poac-upgrade-image-wrap img{width: 100%; margin-bottom:30px;}
 
-		/**** commod deal offer ****/
-		/* .poac-deal-offer-wrap{position: relative;padding: 0.75rem 1.25rem;margin-bottom: 1rem;border: 1px solid transparent;border-radius: 0.25rem; color: #000;background-color: #ffd104;border-color: #ffd104;margin-top: 20px;}
-		.poac-deal-offer{display:flex;align-items: center; margin-top: 15px;}
-		.poac-inn-deal-offer{flex-basis:60%; padding: 20px; text-align:left;}
-		.poac-inn-deal-hedding span{color:#6c63ff;} */
-
 		/***free 5 day offer new CSS START***/
 		.poac-deal-offer-wrap{position: relative;padding:0 1.25rem;margin-bottom: 1rem;border: 1px solid transparent;border-radius: 0.25rem; color: #000;background-color: #6c63ff;border-color: #6c63ff;margin-top: 20px;}
 		.poac-deal-offer{display:flex;align-items: center;}
