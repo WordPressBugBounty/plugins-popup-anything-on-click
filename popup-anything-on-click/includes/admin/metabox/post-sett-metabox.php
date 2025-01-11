@@ -100,7 +100,7 @@ if( ! $enable ) { ?>
 
 		</li>
 		<li class="paoc-pro-tab-wrap">
-			<em><b>Grab Popup Anything with Essential Plugin Bundle</b><br/><span>and Get get Designs, Optimization, Security, Backup, Migration and Solutions @ one stop.</span></em>
+			<em><b>Grab Popup Anything with Essential Plugin Bundle</b><br/><span>and Get Designs, Optimization, Security, Backup, Migration Solutions @ one stop.</span></em>
 		</li>
 	</ul>
 

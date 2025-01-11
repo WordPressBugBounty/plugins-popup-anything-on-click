@@ -75,7 +75,7 @@ $welcome_popup_title	= ! empty( $welcome_popup_post->post_title )	? $welcome_pop
 					<td colspan="2" class="paoc-no-padding">
 						<div class="paoc-pro-notice">
 							<i class="dashicons dashicons-money-alt"></i>
-							<?php echo sprintf( __( '<a href="%s" target="_blank">Upgrade To Pro</a> and Get get Designs, Optimization, Security, Backup, Migration and Solutions @ one stop.', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>		
+							<?php echo sprintf( __( '<a href="%s" target="_blank">Upgrade To Pro</a> and Get Designs, Optimization, Security, Backup, Migration Solutions @ one stop.', 'popup-anything-on-click'), POPUPAOC_PLUGIN_LINK_UNLOCK); ?>		
 						</div>
 
 					</td>	

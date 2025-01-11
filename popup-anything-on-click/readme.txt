@@ -3,7 +3,7 @@ Contributors: wponlinesupport, anoopranawat, pratik-jain, patelketan, piyushpate
 Tags: marketing popup, exit popup, image popup, page load popup, modal popup on click,
 Requires at least: 5.2
 Tested up to: 6.7.1
-Stable tag: 2.8.5
+Stable tag: 2.8.6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -170,6 +170,9 @@ You can use <code>.paoc-popup-btn</code> class to change the button design as pe
 7) General Settings
 
 == Changelog ==
+
+= 2.8.6 (11, January 2024) =
+* [*] Check compatibility with WordPress version 6.7.1.
 
 = 2.8.5 (11, January 2024) =
 * [*] Check compatibility with WordPress version 6.7.1.
