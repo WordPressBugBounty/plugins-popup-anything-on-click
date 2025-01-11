@@ -96,11 +96,11 @@ if( ! $enable ) { ?>
 		<!-- Pro Feature - Button -->
 		<li class="paoc-pro-tab-wrap">
 
-			<a href="<?php echo esc_url( POPUPAOC_PLUGIN_LINK_UNLOCK ); ?>" target="_blank" class="paoc-pro-upgrade-link"><i class="dashicons dashicons dashicons-money-alt"></i> Try Upgrade To PRO</a>
+			<a href="<?php echo esc_url( POPUPAOC_PLUGIN_LINK_UNLOCK ); ?>" target="_blank" class="paoc-pro-upgrade-link"><i class="dashicons dashicons dashicons-money-alt"></i> Upgrade To PRO</a>
 
 		</li>
 		<li class="paoc-pro-tab-wrap">
-			<em><b>Try All These</b><br/><span> PRO Features with Early <u>Back Friday Deals</u> on lifetime plan. FLAT $100 USD OFF.</span></em>
+			<em><b>Grab Popup Anything with Essential Plugin Bundle</b><br/><span>and Get get Designs, Optimization, Security, Backup, Migration and Solutions @ one stop.</span></em>
 		</li>
 	</ul>
 

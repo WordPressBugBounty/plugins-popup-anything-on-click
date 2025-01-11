@@ -105,6 +105,88 @@ input.paoc-url{max-width: 60%; width: 100%;}
 .paoc-vtab-cnt-wrp{background-color: #fff; margin-left: 179px; padding: 10px 20px 10px 20px; min-height: 225px; border-left: 1px solid #e2dddb;}
 .paoc-vtab-cnt{display: none;}
 
+/* welcome-screen-css start -M */
+.poac-inner-Bonus-class{background: #46b450;
+  border-radius: 20px;
+  font-weight: 700;
+  padding: 5px 10px;
+  color: #fff;
+    line-height: 1;
+  font-size: 12px;}
+
+.poac-black-friday-feature{padding: 30px 40px;
+  background: #fafafa;
+  border-radius: 20px 20px 0 0;
+  gap: 60px;
+  align-items: center;
+  flex-direction: row;
+  display: flex;}
+.poac-black-friday-feature .poac-inner-deal-class{flex-direction: column;
+  gap: 15px;
+  display: flex;
+  align-items: flex-start;}
+.poac-black-friday-feature ul li{text-align: left;}
+.poac-black-friday-feature .poac-inner-list-class {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 10px;
+}
+.poac-black-friday-feature .poac-list-img-class {
+  min-height: 95px;
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border-radius: 20px;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;color: #000;
+  font-size: 12px;
+}
+.poac-black-friday-banner-wrp .poac-list-img-class img {
+  width: 100%;
+  flex: 0 0 40px;
+  font-size: 20px;
+  height: 40px;
+  width: 40px;
+  box-shadow: inset 0px 0px 15px 2px #c4f2ac;
+  border-radius: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.poac-main-feature-item{background: #fafafa;
+  padding: 20px 15px 40px;
+  border-radius: 0 0 20px 20px;margin-bottom: 40px;}
+.poac-inner-feature-item{display: flex;
+  gap: 30px;
+  padding: 0 15px;}
+.poac-list-feature-item {
+  border: 1px solid #ddd;
+  padding: 10px 15px;
+  border-radius: 8px;text-align: left;
+}
+.poac-list-feature-item img {
+  width: 36px !important;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 50%;margin-bottom: 5px;
+}
+.poac-list-feature-item h5{margin: 0;
+  font-weight: bold;font-size: 16px;
+  text-decoration: underline;
+  text-underline-position: under;
+  color: #000;}
+.poac-list-feature-item p {
+  color: #505050;
+  font-size: 12px;
+  margin-bottom: 0;
+}
+
+/* welcome-screen-css end -M */
+
 /* Preview Popup */
 .paoc-popup-modal,
 .paoc-popup-tags{position: fixed; top: 25px; left: 25px; right: 25px; bottom: 25px; z-index: 160000; min-height: 300px; background-color: #fff; display: none;}
@@ -155,8 +237,7 @@ input.paoc-url{max-width: 60%; width: 100%;}
 .popupaoc-top-rsn p, .popupaoc-sf-testimonial-wrap p{color: #000; font-size:15px;}
 .popupaoc-left{text-align:left;}
 .popupaoc-feature__text h3{font-size: 22px;font-weight: 700;margin:0;}
-.popupaoc-solutions-box-grid	{display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;
-flex-direction: column;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}
+.popupaoc-solutions-box-grid{display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}
 .popupaoc-team{margin-bottom:50px; border-radius: 10px;border: 1px solid #e5ecf6; padding:10px 30px 30px 30px;}
 .popupaoc-blue{color:#6c63ff; font-weight:bold;}
 .aoc_popup_page_paoc-solutions-features #wpcontent{padding: 0 0 40px; line-height: normal;}
@@ -167,10 +248,10 @@ flex-direction: column;-webkit-box-pack: center;-ms-flex-pack: center;justify-co
 .popupaoc-sf-title{font-size: 32px; font-weight: 600; color: #23282d; margin-top: 0; margin-bottom: 20px;}
 .popupaoc-sf-ttl{font-size: 23px; font-weight: 600; color: #23282d; margin-top: 0; margin-bottom: 20px;}
 .popupaoc-sf-content{margin: 0 0 20px; font-size: 22px;  color: #646970;}
-.popupaoc-sf-btn{display: inline-block; font-size: 18px; padding: 10px 25px; border-radius: 100px;  background-color: #46b450; border-color: #46b450; color: #fff !important; font-weight: 600; text-decoration: none;}
+.popupaoc-sf-btn{display: inline-block; font-size: 18px; padding: 10px 25px; border-radius: 100px;  background-color: #ff5d52; border-color: #ff5d52; color: #fff !important; font-weight: 600; text-decoration: none;}
 .popupaoc-sf-btn-orange{ background-color: #FF1000; border-color: #FF1000 ;}
 .popupaoc-sf-btn:hover,
-.popupaoc-sf-btn:focus{background-color: #3fa548; border-color: #3fa548;}
+.popupaoc-sf-btn:focus{box-shadow: none;}
 .popupaoc-sf-btn-orange:hover,
 .popupaoc-sf-btn-orange:focus {background-color: #D01003 ; border-color: #D01003 ;}
 .popupaoc-sf-fp-ttl{font-size: 23px; line-height: 1.4em; margin-bottom: 10px; font-weight: 600; text-align: center;}

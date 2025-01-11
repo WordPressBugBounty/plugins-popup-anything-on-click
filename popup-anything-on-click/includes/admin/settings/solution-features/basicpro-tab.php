@@ -13,9 +13,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 } ?>
 <div id="paoc_basic_tabs" class="paoc-vtab-cnt paoc_basic_tabs paoc-clearfix">
 
-	<div class="poac-black-friday-banner-wrp">
-		<a href="<?php echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img src="<?php echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
-	</div>
+	<!-- <div class="poac-black-friday-banner-wrp">
+		<a href="<?php //echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img src="<?php // echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
+	</div> -->
 
 	<h3 class="paoc-basic-heading">Compare <span class="popupaoc-blue">"Popup Anything - A Marketing Popup"</span> Basic VS Pro</h3>
 
@@ -258,8 +258,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 		</tbody>
 	</table>
 
-	<div class="poac-black-friday-banner-wrp">
-		<a href="<?php echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img src="<?php echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
-	</div>
+	<!-- <div class="poac-black-friday-banner-wrp">
+		<a href="<?php //echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img src="<?php //echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
+	</div> -->
 
 </div>

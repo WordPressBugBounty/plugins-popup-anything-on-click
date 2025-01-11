@@ -1,37 +1,37 @@
-﻿=== Popup Anything - Popup for opt-ins and Lead Generation Conversions ===
+﻿=== Popup Maker and Popup Anything - Popup for opt-ins and Lead Generation Conversions ===
 Contributors: wponlinesupport, anoopranawat, pratik-jain, patelketan, piyushpatel123
 Tags: marketing popup, exit popup, image popup, page load popup, modal popup on click,
 Requires at least: 5.2
-Tested up to: 6.6.2
-Stable tag: 2.8.4
+Tested up to: 6.7.1
+Stable tag: 2.8.5
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Create popup on a page load or by clicking link, image and button. Create popups, opt-in forms, & exit popups, floating bars and more! 
+Create popup on a page load or Create popup by clicking link, image and button. Create popups, opt-in forms, & exit popups, floating bars and more! 
 
 == Description ==
 
-**Download Now** Popup Anything and make popups on page load or on click & optin forms to get more email newsletter subscribers, leads, and sales.
+**Download Now** Popup Anything and make popup on page load or on click & optin forms to get more email newsletter subscribers, leads, and sales.
 
 ✅ **#1 most popular popup builder plugin!**
 
-✅ **Checkout demo for better understanding**
+✅ **Checkout popup demo for better understanding**
 
 [FREE DEMO](https://demo.essentialplugin.com/popup-anything-on-click-demo/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Read-Me) | [PRO DEMO](https://demo.essentialplugin.com/prodemo/popup-anything-on-click-pro-demo/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Read-Me)
 
 == ✅ Popup plugin is best to to increase your conversion rates ==
 
-You all must have seen those popups appearing after a certain time when you are on some website. Those popups are there to communicate with you through your email. 
+You all must have seen those popup appearing after a certain time when you are on some website. Those popup came one welcome screen, popup on click like button, link and image, popup on exit, popup after scroll to some distance. 
 
 It can be a form or a reminder. If you are interested in such a website then you do respond to the popup. 
 
-**Popup Anything** plugin is useful so that your customer doesn't leave your site without responding to your product.
+**Popup Maker and Popup Anything** plugin is useful so that your customer doesn't leave your site without responding to your product.
 
-**Popup Anything** - is the best popup builder and marketing plugin that helps you **get more email subscribers, increase sales, and grow your business**. It is the **key for high rate conversions and helps businesses to grow potentially**. 
+**Popup Maker and  Popup Anything** - is the best popup builder on click and marketing plugin that helps you **get more email subscribers, increase sales, and grow your business**. It is the **key for high rate conversions and helps businesses to grow potentially**. 
 
-Then why not use it! **Download Now**  We are here to offer you this **Popup Anything** so take advantage of it for your website and business.
+Then why not use it! **Download Now** Popup Maker and  Popup Anything. We are here to offer you this **Popup Maker and  Popup Anything** so take advantage of it for your website and business.
 
-== ✅ Features and benefits of using our Popup Anything Plugin: ==
+== ✅ Features and benefits of using our Popup Maker and  Popup Anything Plugin: ==
 
 = ✅ Features  =
 * Popup on Page Load
@@ -52,7 +52,7 @@ Then why not use it! **Download Now**  We are here to offer you this **Popup Any
 * Ad blocker Popup and many more
 
 = ✅ Benefits  =
-* Create and manage as many popups as you want
+* Create and manage as many popup as you want
 * Customize the look and feel of the popup
 * Set custom animation effects (Fade in, Slide, Newspaper, Super Scaled, Corner, Scale, Slide Together)
 * Popup Live Preview
@@ -66,15 +66,15 @@ Then why not use it! **Download Now**  We are here to offer you this **Popup Any
 * Popup width & height
 * Responsive popup
 
-On the front end, the free version of **Popup Anything** provides 7 main popup positions eg :  center, top left, top right, bottom left, bottom right, center-left, and center-right.
+On the front end, the free version of **Popup Maker and  Popup Anything** provides 7 main popup positions eg :  center, top left, top right, bottom left, bottom right, center-left, and center-right.
 
-With **Popup Anything** on click plugin, you can insert any type of content into your Popup (HTML, Image, Shortcodes, etc). Insert your popup into any page or a post, easily and fast.
+With **Popup Maker and  Popup Anything** on click plugin, you can insert any type of content into your Popup (HTML, Image, Shortcodes, etc). Insert your popup into any page or a post, easily and fast.
 
-**Download Now** Popup Anything because with many such features and designs you can easily construct your own website popup very easily and enjoy the journey.
+**Download Now** Popup Maker and  Popup Anything because with many such features and designs you can easily construct your own website popup very easily and enjoy the journey.
 
-Your visitor’s experience is our **#1 priority**. Popup Anything’s campaigns won’t annoy your visitors like other WordPress popup plugins do. Our smart targeting and personalization features let you show the right message, to the right user, at the right time…no unwanted interruptions necessary.
+Your visitor’s experience is our **#1 priority**. Popup Maker and  Popup Anything’s campaigns won’t annoy your visitors like other WordPress popup plugins do. Our smart targeting and personalization features let you show the right message, to the right user, at the right time…no unwanted interruptions necessary.
 
-**Download Now** - Popup Anything because its a best popup builder and marketing plugin that helps you get more email subscribers, increase sales and grow your business.
+**Download Now** - Popup Maker and  Popup Anything because its a best popup builder and marketing plugin that helps you get more email subscribers, increase sales and grow your business.
 
 Then why wait, grab this today so that you and your website can be benefited with our popup because- 
 
@@ -88,11 +88,11 @@ Don’t leave your money on the table and start using this plugin!
 * Gravity Forms
 * Any generic form that submits the form with help of Ajax.
 
-✅ **Checkout demo for better understanding**
+✅ **Checkout demo for better understanding of Popup Maker and  Popup Anything**
 
 [FREE DEMO](https://demo.essentialplugin.com/popup-anything-on-click-demo/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Read-Me) | [PRO DEMO](https://demo.essentialplugin.com/prodemo/popup-anything-on-click-pro-demo/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Read-Me)
 
-✅ **Essential Plugin Bundle Deal**
+✅ **Essential Plugin Bundle Deal with Popup Maker and  Popup Anything**
 
 [Annual or Lifetime Bundle Deal](https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Read-Me)
 
@@ -100,7 +100,7 @@ Don’t leave your money on the table and start using this plugin!
 = PRO Features Include : =
 > <strong>Premium Version</strong><br>
 >
-> * Create and manage as many popups as you want
+> * Create and manage as many popup as you want
 > * Customize the look and feel of the popup
 > * Set custom animation effects (Fade in, Slide, Newspaper, Super Scaled, Corner, Scale, Slide Together)
 > * Exit Intent Popup
@@ -170,6 +170,9 @@ You can use <code>.paoc-popup-btn</code> class to change the button design as pe
 7) General Settings
 
 == Changelog ==
+
+= 2.8.5 (11, January 2024) =
+* [*] Check compatibility with WordPress version 6.7.1.
 
 = 2.8.4 (08, Nov 2024) =
 * [*] Fixed - Fixed one undefined PHP variable warning.

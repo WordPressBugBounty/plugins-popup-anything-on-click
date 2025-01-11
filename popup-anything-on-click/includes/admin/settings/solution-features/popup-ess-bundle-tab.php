@@ -14,9 +14,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <div id="paoc_unlock_tabs" class="paoc-vtab-cnt paoc_unlock_tabs paoc-clearfix">
 	
-	<div class="poac-black-friday-banner-wrp">
-		<a href="<?php echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img src="<?php echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
-	</div>
+	<!-- <div class="poac-black-friday-banner-wrp">
+		<a href="<?php //echo esc_url( POPUPAOC_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img src="<?php //echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
+	</div> -->
 
 	<h2 class="poac-plugin-list">Bundle Deal Details with Essential Plugin Bundle</h2>
 	<table class="wpos-plugin-list">

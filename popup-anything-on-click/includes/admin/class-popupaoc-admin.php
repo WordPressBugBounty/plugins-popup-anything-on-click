@@ -56,10 +56,10 @@ class Popupaoc_Admin {
 		add_submenu_page( 'edit.php?post_type='.POPUPAOC_POST_TYPE, __('Settings - Popup Anything On Click', 'popup-anything-on-click'), __('Settings', 'popup-anything-on-click'), 'manage_options', 'popupaoc-settings', array($this, 'popupaoc_settings_page') );
 
 		// Setting page
-		add_submenu_page( 'edit.php?post_type='.POPUPAOC_POST_TYPE, __('Overview - Popup Anything On Click', 'popup-anything-on-click'), '<span style="color:#2ECC71">'. __('Overview', 'popup-anything-on-click').'</span>', 'manage_options', 'paoc-solutions-features', array($this, 'popupaoc_solutions_features_page') );
+		add_submenu_page( 'edit.php?post_type='.POPUPAOC_POST_TYPE, __('Overview - Popup Anything On Click', 'popup-anything-on-click'), __('Overview', 'popup-anything-on-click'), 'manage_options', 'paoc-solutions-features', array($this, 'popupaoc_solutions_features_page') );
 
 		// Register plugin premium page
-		add_submenu_page( 'edit.php?post_type='.POPUPAOC_POST_TYPE, __('Upgrade To PRO - Popup Anything On Click', 'popup-anything-on-click'), '<span style="color:#ff2700">'.__('Upgrade To PRO - Early Back Friday Deals', 'popup-anything-on-click').'</span>', 'manage_options', 'popupaoc-premium', array($this, 'popupaoc_premium_page') );
+		add_submenu_page( 'edit.php?post_type='.POPUPAOC_POST_TYPE, __('Upgrade To PRO - Popup Anything On Click', 'popup-anything-on-click'), '<span style="color:#2ECC71">'.__('Upgrade To PRO', 'popup-anything-on-click').'</span>', 'manage_options', 'popupaoc-premium', array($this, 'popupaoc_premium_page') );
 	}
 
 	/**

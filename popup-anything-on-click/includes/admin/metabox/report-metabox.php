@@ -61,11 +61,11 @@ $display_rule_link = add_query_arg( array( 'post_type' => POPUPAOC_POST_TYPE, 'p
 		<hr/>
 		<span class="description"><?php esc_html_e('Note : Flush Stats button will only flush the `Impressions` and `Clicks` for this post. The popup report will not be affected by this.', 'popup-anything-on-click'); ?></span>
 	</div>
-	<br/>
+	<!-- <br/> -->
 
-	<div class="poac-black-friday-banner-wrp" style="margin:20px 10px;">
-		<a href="<?php echo esc_url( POPUPAOC_PLUGIN_LINK_UNLOCK ); ?>" target="_blank"><img style="width:100%" src="<?php echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-small.png" alt="black-friday-banner" /></a>
-	</div>
+	<!-- <div class="poac-black-friday-banner-wrp" style="margin:20px 10px;">
+		<a href="<?php //echo esc_url( POPUPAOC_PLUGIN_LINK_UNLOCK ); ?>" target="_blank"><img style="width:100%" src="<?php //echo esc_url( POPUPAOC_URL ); ?>assets/images/black-friday-small.png" alt="black-friday-banner" /></a>
+	</div> -->
 
 	<?php } ?>
 </div>
