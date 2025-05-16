@@ -3,7 +3,7 @@ Contributors: essentialplugin
 Tags: marketing popup, exit popup, image popup, page load popup, modal popup on click
 Requires at least: 5.2
 Tested up to: 6.8.1
-Stable tag: 2.8.7
+Stable tag: 2.8.8
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -170,6 +170,9 @@ You can use <code>.paoc-popup-btn</code> class to change the button design as pe
 7) General Settings
 
 == Changelog ==
+
+= 2.8.8 (16, May 2025) =
+* [*] Updated some URL's
 
 = 2.8.7 (15, May 2025) =
 * [*] Check compatibility with WordPress version 6.8.1

@@ -22,7 +22,7 @@ if ( !defined( 'ABSPATH' ) ) {
 	</div>
 	<?php } ?>
 
-	<form method="POST" action="https://analytics.wponlinesupport.com">
+	<form method="POST" action="https://analytics.essentialplugin.com">
 		<div class="wpos-anylc-optin-wrap" style="width: 650px; margin: 0 auto; margin-top: 70px;">
 
 			<div>
