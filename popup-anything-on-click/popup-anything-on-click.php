@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: Popup Anything - A Marketing Popup
- * Plugin URI: https://www.essentialplugin.com/wordpress-plugin/popup-anything-click/
+ * Plugin URI: https://essentialplugin.com/wordpress-plugin/popup-anything-click/
  * Text Domain: popup-anything-on-click
  * Description: Display a modal popup on a page load or by clicking link, image or button. Also work with Gutenberg shortcode block.
  * Domain Path: /languages/
- * Version: 2.8.8
+ * Version: 2.8.9
  * Author: Essential Plugin
- * Author URI: https://www.essentialplugin.com
+ * Author URI: https://essentialplugin.com
  * 
  * @package Popup Anything - A Marketing Popup
  * @author Essential Plugin
@@ -18,7 +18,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'POPUPAOC_VERSION' ) ) {
-	define( 'POPUPAOC_VERSION', '2.8.8' ); // Version of plugin
+	define( 'POPUPAOC_VERSION', '2.8.9' ); // Version of plugin
+}
+if( ! defined( 'POPUPAOC_NAME' ) ) {
+	define( 'POPUPAOC_NAME', 'Popup anything on click' ); // Name of plugin
+}
+if ( ! defined( 'POPUPAOC_SLUG' ) ) {
+	define( 'POPUPAOC_SLUG', 'popup-anything-on-click' ); // Slug of plugin
 }
 
 if( ! defined( 'POPUPAOC_DIR' ) ) {
@@ -42,11 +48,11 @@ if( ! defined( 'POPUPAOC_META_PREFIX' ) ) {
 }
 
 if( ! defined( 'POPUPAOC_PLUGIN_LINK_UPGRADE' ) ) {
-	define('POPUPAOC_PLUGIN_LINK_UPGRADE','https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Upgrade-PRO'); // Plugin Check link
+	define('POPUPAOC_PLUGIN_LINK_UPGRADE','https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Upgrade-PRO'); // Plugin Check link
 }
 
 if( ! defined( 'POPUPAOC_SITE_LINK' ) ) {
-    define('POPUPAOC_SITE_LINK','https://www.essentialplugin.com'); // Site Link
+    define('POPUPAOC_SITE_LINK','https://essentialplugin.com'); // Site Link
 }
 
 if( ! defined( 'POPUPAOC_PREVIEW_LINK' ) ) {
@@ -54,11 +60,11 @@ if( ! defined( 'POPUPAOC_PREVIEW_LINK' ) ) {
 }
 
 if( ! defined( 'POPUPAOC_PLUGIN_BUNDLE_LINK' ) ) {
-	define('POPUPAOC_PLUGIN_BUNDLE_LINK', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Welcome-Screen'); // Plugin link
+	define('POPUPAOC_PLUGIN_BUNDLE_LINK', 'https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Welcome-Screen'); // Plugin link
 }
 
 if( ! defined( 'POPUPAOC_PLUGIN_LINK_UNLOCK' ) ) {
-	define('POPUPAOC_PLUGIN_LINK_UNLOCK', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Features-PRO'); // Plugin link
+	define('POPUPAOC_PLUGIN_LINK_UNLOCK', 'https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Features-PRO'); // Plugin link
 }
 
 /**
@@ -257,12 +263,12 @@ function wpos_analytics_anl32_load() {
 	$wpos_analytics =  wpos_anylc_init_module( array(
 							'id'			=> 32,
 							'file'			=> plugin_basename( __FILE__ ),
-							'name'			=> 'Popup anything on click',
-							'slug'			=> 'popup-anything-on-click',
+							'name'			=> POPUPAOC_NAME,
+							'slug'			=> POPUPAOC_SLUG,
 							'type'			=> 'plugin',
 							'menu'			=> 'edit.php?post_type=aoc_popup',
 							'redirect_page'	=> 'edit.php?post_type=aoc_popup&page=paoc-solutions-features',
-							'text_domain'	=> 'popup-anything-on-click',							
+							'text_domain'	=> 'popup-anything-on-click',
 						));
 
 	return $wpos_analytics;
