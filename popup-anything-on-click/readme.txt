@@ -2,8 +2,8 @@
 Contributors: essentialplugin
 Tags: marketing popup, exit popup, image popup, page load popup, modal popup on click
 Requires at least: 5.2
-Tested up to: 6.8.2
-Stable tag: 2.8.9
+Tested up to: 6.8.3
+Stable tag: 2.9.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -19,7 +19,7 @@ Create popup on a page load or Create popup by clicking link, image and button. 
 
 [FREE DEMO](https://demo.essentialplugin.com/popup-anything-on-click-demo/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Read-Me) | [PRO DEMO](https://demo.essentialplugin.com/prodemo/popup-anything-on-click-pro-demo/?utm_source=WP&utm_medium=Popup-Anything&utm_campaign=Read-Me)
 
-== ✅ Popup plugin is best to to increase your conversion rates ==
+== ✅ Popup plugin is good to to increase your conversion rates ==
 
 You all must have seen those popup appearing after a certain time when you are on some website. Those popup came one welcome screen, popup on click like button, link and image, popup on exit, popup after scroll to some distance. 
 
@@ -27,7 +27,7 @@ It can be a form or a reminder. If you are interested in such a website then you
 
 **Popup Maker and Popup Anything** plugin is useful so that your customer doesn't leave your site without responding to your product.
 
-**Popup Maker and  Popup Anything** - is the best popup builder on click and marketing plugin that helps you **get more email subscribers, increase sales, and grow your business**. It is the **key for high rate conversions and helps businesses to grow potentially**. 
+**Popup Maker and  Popup Anything** - is the popup builder on click and marketing plugin that helps you **get more email subscribers, increase sales, and grow your business**. It is the **key for high rate conversions and helps businesses to grow potentially**. 
 
 Then why not use it! **Download Now** Popup Maker and  Popup Anything. We are here to offer you this **Popup Maker and  Popup Anything** so take advantage of it for your website and business.
 
@@ -170,6 +170,12 @@ You can use <code>.paoc-popup-btn</code> class to change the button design as pe
 7) General Settings
 
 == Changelog ==
+
+= 2.9.1 (17, Nov 2025) =
+* [*] Fixed code conflict issue affecting widget saving.
+
+= 2.9.0 (12, Nov 2025) =
+* [*] Check compatibility with WordPress version 6.8.3
 
 = 2.8.9 (07, Sep 2025) =
 * [*] Check compatibility with WordPress version 6.8.2

@@ -5,7 +5,7 @@
  * Text Domain: popup-anything-on-click
  * Description: Display a modal popup on a page load or by clicking link, image or button. Also work with Gutenberg shortcode block.
  * Domain Path: /languages/
- * Version: 2.8.9
+ * Version: 2.9.1
  * Author: Essential Plugin
  * Author URI: https://essentialplugin.com
  * 
@@ -17,10 +17,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
 
-if( ! defined( 'POPUPAOC_VERSION' ) ) {
-	define( 'POPUPAOC_VERSION', '2.8.9' ); // Version of plugin
+if ( ! defined( 'POPUPAOC_VERSION' ) ) {
+	define( 'POPUPAOC_VERSION', '2.9.1' ); // Version of plugin
 }
-if( ! defined( 'POPUPAOC_NAME' ) ) {
+if ( ! defined( 'POPUPAOC_NAME' ) ) {
 	define( 'POPUPAOC_NAME', 'Popup anything on click' ); // Name of plugin
 }
 if ( ! defined( 'POPUPAOC_SLUG' ) ) {
@@ -263,8 +263,8 @@ function wpos_analytics_anl32_load() {
 	$wpos_analytics =  wpos_anylc_init_module( array(
 							'id'			=> 32,
 							'file'			=> plugin_basename( __FILE__ ),
-							'name'			=> POPUPAOC_NAME,
-							'slug'			=> POPUPAOC_SLUG,
+							'name'			=> 'Popup anything on click',
+							'slug'			=> 'popup-anything-on-click',
 							'type'			=> 'plugin',
 							'menu'			=> 'edit.php?post_type=aoc_popup',
 							'redirect_page'	=> 'edit.php?post_type=aoc_popup&page=paoc-solutions-features',
